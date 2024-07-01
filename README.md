@@ -1,156 +1,69 @@
-# IEEE LAUNCHPAD Job Fair
+# Aaina Akbar
 
+### About Me
 
+> I am Aaina Akbar, a 22-year-old engineer with a  passion for innovation and development. As a tech enthusiast, I strive to stay at the forefront of emerging technologies such as machine learning, data science, Internet of things , artificial intelligence etc and leverage them to create impactful solutions. My belief in technology's power to transform lives and industries drives my engineering journey.
 
+>Leadership is one of my core strengths, honed through team projects and competitions. I excel in articulating complex ideas and ensuring team alignment and motivation. Critical thinking and ideation are integral to my problem-solving approach, enabling creative and precise navigation of challenges. As an adaptable team player, I thrive in collaborative environments, eager to learn and contribute.
 
+>Outside technology, I find solace in nature and value the books I read, such as "The Alchemist" and "The Power of the Subconscious Mind," which have profoundly influenced my perspective on life and success.
 
+>My dedication to innovation and new technologies is evidenced by my participation in national-level idea pitching program by STPI. A highlight of my academic journey was leading a team that received a stipend of 90,000 INR to build a proof of concept (POC), providing invaluable insights into project development and management.
 
-
-![Frame3](https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/assets/94307781/33c8ad32-fb7e-4a84-8c05-054c697904fc)
-
-
-
-
-
-
-
-<div align="center">
-Welcome to the LAUNCHPAD Job Fair, an opportunity to secure your spotlight and connect with potential employers through karma points! This event is designed to facilitate meaningful interactions between talented individuals like yourself and companies seeking top-tier talent.
-</div>
-
-#
-
-
-
-
-<div align="center">
-
-
-
-
-# How to Participate
-[![Watch the video](https://i.ytimg.com/vi/XBcJKtRCbu4/hqdefault.jpg?sqp=-oaymwExCNACELwBSFryq4qpAyMIARUAAIhCGAHwAQH4Af4IgALQBYoCDAgAEAEYZCBkKGQwDw==&rs=AOn4CLBmBH9zsXdht8RTDm4a5l2ZSM7p9g)](https://youtu.be/XBcJKtRCbu4?si=ggG3c0Q3xRfnVa1H)
-
-> **Watch the onboarding video-👆**
-
-## Step 1:
-
-
-
-<!-- <img width="428" alt="Screenshot 2023-10-01 at 8 37 38 PM" src="https://github.com/gtech-mulearn/Top-100-Coders/assets/94307781/8f82a51b-a703-4de2-a714-2e6d876dea83"> -->
-<img width="432" alt="Screenshot 2024-01-01 at 5 48 28 PM" src="https://github.com/gtech-mulearn/Top-100-Coders/assets/94307781/27196322-f99f-4812-8241-a1fcb07821d0">
-
-
-
-### Join the Gtech Mulearn Discord Server by registering [here](https://app.mulearn.org/register).
-#### [Onboarding Video(English)](https://www.youtube.com/watch?v=Pjpms7b0mAI) | [Onboarding Video(Malayalam)](https://www.youtube.com/watch?v=qVj_5Pga3XY)
-
-#
-
-## Step 2:
-
-### follow the onboarding workflow. Connect your Discord account during this process to obtain your MUID (Mulearn User ID).
-
-![image](https://github.com/gtech-mulearn/Top-100-Coders/assets/94307781/7c534dc6-0e4f-43ae-b8d6-10a2c3283a35)
-
-</div>
-
-<div align="center">
-
-## Step 3:
-
-</div>
-
-
-#### 🛠️ Craft Your Digital Identity!
-
-Ready to carve out your space in the coding cosmos? It's time to showcase your unique coding persona. Follow the neon-lit path to create your portfolio in the `/profile` directory by following these instructions:
-
-#### 🍴 Fork It!
-
-Start by forking [this repository](https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/fork) to your own GitHub realm.
-
-#### 📄 Name Your File!
-
-Craft a new markdown file inside the `/profiles` folder. Name it using your MUID (Refer Step 2 on on how to get MUID). It's like your digital signature!
-
-#### ✍️ Fill It Out!
-
-Use the provided template to fill out your details.[TEMPLATE.md](./TEMPLATE.md)
-
-#### 🚀 Pull It!
-
-Once you're ready, create a pull request targeting the main branch. Let the world see your brilliance!
-
-> [!TIP]
-> ### Need a guiding star? Check out [example@mulearn.md](./profiles/vishakhabhayan@mulearn.md) for the perfect template to light your way.
-
-
-
-> Embark on this step with passion and precision.
-> Your portfolio is the beacon that will guide others to recognize your coding prowess! ✨
-
-
-
-
-
-
-#
-
-
-<div align="center">
-
-## 🚀 Step 4: Dive into the Digital Arena!
-
-### Welcome to the heart of our **LAUNCHPAD**
-
-> The Discord server's *LAUNCHPAD* section. Here's your guide to navigating the channels:
-
-
-<img width="233" alt="Screenshot 2024-04-12 at 8 34 44 AM" src="https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/assets/94307781/5155afee-9d3d-4171-9ae6-38ec7110be31">
-
-
-
-</div>
-
-<div align="left">
-
-#### 📢 #ieee-launchpad-announcment 
-
-- Purpose: Your primary source of truth! Get real-time updates and tasks as the challenge unfolds.
-- Tip: Stay alert! You wouldn't want to miss out on any crucial info.
-
-#### 🤖 #ieee-lp-introduction 
-- Purpose: Roll out the red carpet! Introduce yourself to fellow coders.
-- Action: Drop a short bio and the GitHub repo link of your profile for the IEEE Launchpad.
-
-#### 🚀 #ieee-lp-task-dropbox
-
-- Purpose: The battleground where you showcase your skills.
-- Action: Submit your completed tasks and let the world witness your coding prowess.
-
-#### 🎙️ #ieee-launchpad-officehours
-
-- Purpose: Got questions? We've got answers!
-- Timing: Tune in every day from 8 PM to 9 PM.
-- Tip: Collaboration is key. Engage, discuss, and get insights directly from the organizers.
-
-
-</div>
-
-
-</div>
-
-#
-
-
-:memo: **Note:** That's it! You're all set to participate in **IEEE LAUNCHPAD Job Fair**. Keep an eye on the announcements channel for any additional instructions or updates. If you have any questions or need assistance, please feel free to ask on the Discord server.
-
-#
-
-> [!IMPORTANT]  
-> If you're new to GitHub and editing markdown, you can learn more by following this [Introduction to Github](https://learn.microsoft.com/en-us/training/modules/introduction-to-github/) and [Introduction to Markdown](https://learn.microsoft.com/en-us/training/modules/communicate-using-markdown/)
-
-
+>Driven by relentless curiosity, I am excited about the possibilities ahead and look forward to leveraging my skills and passions to drive innovation and create positive change in the tech industry.
 
 ---
+## Portfolio Highlights
+
+### My Projects
+
+| Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
+|---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
+| **Pesonal Dermatologist**        |The personal dermatologist aimed to classify 10 classes of diseases using a machine learning model trained with three distinct networks: ResNet50, DenseNet, and VGG16 .The training, conducted in Google Colab, utilized a dataset sourced from Kaggle. Post-training, the model was integrated into a full-stack application. The frontend, built with HTML, Bootstrap, and CSS, was complemented by a Flask-based backend. Additionally, the Gemini API was integrated to provide users with detailed information on symptoms, cures, and prevention measures once a disease was detected. The development was carried out in Visual Studio Code (VS Code), ensuring a robust and user-friendly application.     | [Personal Dermatologist(Not hosted)](https://github.com/aaina942/skindieseasedetection.git) |[Personal Dermatologist](https://github.com/aaina942/skindieseasedetection.git)  |
+| **Skin disease detection using mobileNet V2**        | The project leverages MobileNetV2 neural networks to develop a model for identifying and assessing three  specific skin disorders: Eczema, Acne Pustular and Melasma. Achieving an impressive testing accuracy of 95% and a validation accuracy of 74.02%.Training was conducted in Google Colab, providing a robust environment for iterative development. The system not only identifies skin disorders but also assesses the progression or improvement of the affected areas by quantifying grayscale values in uploaded images. This real-time assessment helps users and medical professionals monitor treatment effectiveness, acknowledging improvements or noting the absence .   | [SkinDiseaseDetection(Not hosted)](https://github.com/aaina942/personaldermatologist)    |[SkinDiseaseDetection](https://github.com/aaina942/personaldermatologist) |
+| **Drowsiness Detection**        |In this project, I use OpenCV to capture images from a webcam and feed them into a deep learning model to classify whether a person’s eyes are ‘Open’ or ‘Closed’. The process involves capturing an image, detecting the face to create a Region of Interest (ROI), and then detecting the eyes from the ROI. These eye images are fed into a classifier that categorizes them as open or closed. I built the model with Keras using Convolutional Neural Networks (CNN), which excels in image classification. It includes an input layer, an output layer, and multiple hidden layers where convolution operations with filters are performed. The system also calculates a score to determine drowsiness.| [Drowsiness Detection(Not hosted)](https://github.com/aaina942/drowsinessdetection) |[Drowsiness Detection](https://github.com/aaina942/drowsinessdetection)  |
+
+#### Leadership and Influence:
+
+One notable leadership experience was CFO of IEDC KMEA for over 2 years, I led diverse planning and executing community growth programs, collaborating closely with various teams and communities. Notably, I spearheaded a national-level STPI funding project, guiding the team through complexities and ensuring compliance, achieving milestones on time. Motivated teammates through clear communication and mentorship, fostering creativity and a strong team spirit. My leadership emphasized proactive strategy and empowerment, driving success in community development initiatives.
+
+#### Networking:
+
+During my tenure as CFO at IEDC KMEA for over 2 years, I actively networked and collaborated with diverse teams and communities to plan and execute community growth programs. I employed proactive networking strategies, leveraging social media platforms and participating in meetups, to engage stakeholders effectively. My approach emphasized empowerment and strategic networking, contributing to successful community development initiatives.
+
+#### Career Plan:
+
+In the immediate term, I will focus on developing my data science and analysis skills with the help of specialized courses and obtaining certifications like Coursera which I am currently enrolled in . I will become proficient in Python and R, and learn to use tools like Excel, SQL, Tableau, and Power BI. To gain practical experience, I will work on real-world data science projects. I will seek internships in Kerala’s startup ecosystem and attend meetups, workshops, and hackathons to connect with professionals. I plan to participate in and organize data science workshops and seminars, find mentors in the field, and offer mentorship to beginners.
+
+In the longer term, I aim to become a project engineer and entrepreneur. I will consider a master’s degree in project management or engineering and obtain PMP certification. I will gain hands-on experience by working on complex projects within startups. As an entrepreneur, I will analyze Kerala’s startup ecosystem to identify opportunities, develop a business plan, and seek funding from venture capitalists, angel investors, and government grants. I will build a network by engaging with startup communities, seeking guidance from successful entrepreneurs, and collaborating with other startups and organizations.
+
+To contribute to Kerala’s startup ecosystem, I will organize and participate in data science workshops to enhance startups’ data capabilities, offer mentorship to budding data scientists, and initiate collaborative projects with local startups. In the long term, I aim to launch a startup that addresses a critical need within Kerala’s ecosystem, leveraging my data science and project management skills. I will support incubation centers by offering expertise in data analysis and project management and work with government bodies and industry associations to advocate for policies that support startup growth. This plan will allow me to contribute effectively to Kerala’s startup ecosystem while progressing from a data scientist to a project engineer and entrepreneur.
+
+#### Thoughts on Kerala's Tech Ecosystem:
+
+Kerala's technology startup ecosystem is set for significant growth, supported by prestigious educational institutions that produce skilled graduates. Government policies, startup funds, and incubation centers further enhance this environment. Embracing technologies like AI, machine learning, and IoT can drive innovation and competitiveness.
+Access to funding from angel investors, venture capitalists, and government grants is crucial for scaling startups. A collaborative ecosystem involving startups, academia, corporates, and government bodies fosters knowledge sharing and growth. Prioritizing sustainability and social impact, particularly in renewable energy, healthcare, and education, can attract investment and interest. Leveraging Kerala's global diaspora can facilitate market expansion and partnerships, making Kerala a vibrant hub for tech entrepreneurship.
+
+#### History of Open Source Contributions:
+
+- Contributed to the open-source project [first-contributions](https://github.com/firstcontributions/first-contributions). A popular open-source library for Begineers .
+
+#### History of Community Engagement:
+
+As the CFO at IEDC KMEA, I managed financial operations, utilizing Spreadsheets for budgeting, financial tracking, and reporting. This role required strong analytical skills and attention to detail.
+I also engaged with the community using Discord servers, facilitating discussions, coordinating events, and managing member interactions. This involved setting up channels, moderating conversations, and using bots for automation.
+
+At Tinkerhub, I worked extensively with Discord for community engagement, leveraging its features to foster collaboration and knowledge sharing among members.Documentation tools were crucial in this role, ensuring that resources, guides, and event details were well-organized and accessible. This likely involved using tools like Google Docs and notion to create and maintain documentation.
+My experience highlights a blend of financial management, technical proficiency, and community engagement, showcasing my ability to utilize various tools to support and grow technical communities.
+
+#### Highly Visible Technical Content:
+
+As a Technical Content Writer at Protoheim, my role involved creating user manuals,social media content and technical blog posts that explained complex concepts in an accessible manner. I collaborated closely with the development team to ensure the clarity of the documentation, which helped in effectively communicating the features and benefits to both technical and non-technical audiences.
+
+My tenure as CFO at IEDC KMEA provided me with valuable experience in managing financial documentation and technical writing. I was responsible for documenting financial transactions, preparing budget reports, and creating proposals for funding and partnerships. My ability to produce precise and concise technical documentation contributed to the effective communication and operational success of the organization.
+
+At Tinkerhub, I enhanced my skills by documenting community events and projects, preparing detailed reports, creating instructional guides, and maintaining organized records of technical activities. This work supported Tinkerhub's mission to foster a collaborative tech community.
+
+---
+
+
